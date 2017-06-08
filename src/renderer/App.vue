@@ -6,12 +6,11 @@
 <script>
 
   export default {
-    name: 'Zapper',
-    data: () => ({})
+    name: 'Zapper'
   }
 </script>
 
-<style lang="stylus" scoped>
+<style lang="stylus">
   @import url('https://fonts.googleapis.com/icon?family=Material+Icons')
   @import url('http://cdn.materialdesignicons.com/1.9.32/css/materialdesignicons.css')
   @import url('https://fonts.googleapis.com/css?family=Roboto')
