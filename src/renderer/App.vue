@@ -4,8 +4,10 @@
 </template>
 
 <script>
+
   export default {
-    name: 'zapper'
+    name: 'Zapper',
+    data: () => ({})
   }
 </script>
 
